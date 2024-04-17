@@ -1,4 +1,5 @@
-<img src="https://github.com/JoseAlvarezMartinez/JoseAlvarezMartinez/assets/97672139/39cc39ff-402e-43fd-ad16-67eca66b37f0" alt="imagen del banner"/>
+<img src="https://github.com/JoseAlvarezMartinez/JoseAlvarezMartinez/assets/97672139/c1878be1-5307-445a-b2d6-1c11c5174774" alt="imagen del banner"/>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josealvarezmartinez" alt="josealvarezmartinez" /></a> </p>
