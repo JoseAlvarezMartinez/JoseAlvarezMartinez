@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy José Alvarez</h1>
-<h3 align="center">Desarrollador Front End</h3>
+<img src="https://github.com/JoseAlvarezMartinez/JoseAlvarezMartinez/assets/97672139/39cc39ff-402e-43fd-ad16-67eca66b37f0" alt="imagen del banner"/>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josealvarezmartinez" alt="josealvarezmartinez" /></a> </p>
 
