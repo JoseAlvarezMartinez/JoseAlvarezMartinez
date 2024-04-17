@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josealvarezmartinez" alt="josealvarezmartinez" /></a> </p>
 
-<p align="center">Hola👋</p>
+<h2>Bienvenido/a a mi perfil de GitHub👋</h2>
 - 🔭 Actualmente estoy trabajando de manera **Freelance y en CoderHouse**
 
 - 🌱 Estoy aprendiendo **Node y SQL**
