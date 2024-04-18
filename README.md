@@ -8,7 +8,7 @@
 
 - 🌱 Estoy aprendiendo **Node y SQL**
 
-- 👨‍💻 Podrás ver todos mis proyectos en [https://64499bda36e94d00564e6549--harmonious-ganache-d316a4.netlify.app/](https://64499bda36e94d00564e6549--harmonious-ganache-d316a4.netlify.app/)
+- 👨‍💻 Podrás ver todos mis proyectos en mi<a href="https://64499bda36e94d00564e6549--harmonious-ganache-d316a4.netlify.app/" target="_blank">Portfolio</a>
 
 - 📫 Contactame **alvarezmjose2021@gmail.com**
 
