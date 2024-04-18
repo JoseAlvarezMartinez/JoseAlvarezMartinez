@@ -25,5 +25,5 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josealvarezmartinez&show_icons=true&locale=en&layout=compact" alt="josealvarezmartinez" /></p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josealvarezmartinez&" alt="josealvarezmartinez" /></p>
