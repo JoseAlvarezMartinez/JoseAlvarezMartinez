@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/JoseAlvarezMartinez/JoseAlvarezMartinez/assets/97672139/35483a6f-7ab6-4aab-af88-5c2f684e66c7" alt="imagen del banner"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josealvarezmartinez" alt="josealvarezmartinez" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josealvarezmartinez&theme=onedark" alt="josealvarezmartinez" /></a> </p>
 
 <h2>Bienvenido/a a mi perfil de GitHub👋</h2>
 
