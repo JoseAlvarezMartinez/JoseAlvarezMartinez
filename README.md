@@ -4,7 +4,7 @@
 
 <h2>Bienvenido/a a mi perfil de GitHub👋</h2>
 
-- 🔭 Actualmente estoy trabajando en **Hisluma y en CoderHouse**
+- 🔭 Actualmente estoy trabajando en **Hisluma y CoderHouse**
 
 - 🌱 Estoy aprendiendo **Node y SQL**
 
