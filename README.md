@@ -8,7 +8,7 @@
 
 - 🌱 Estoy aprendiendo **Node y SQL**
 
-- 👨‍💻 Podrás ver todos mis proyectos en mi <a href="josealvarez.netlify.app/" target="_blank">Portfolio</a>
+- 👨‍💻 Podrás ver todos mis proyectos en mi <a href="https://josealvarez.netlify.app/" target="_blank">portfolio</a>
 
 - 📫 Contactame **alvarezmjose2021@gmail.com**
 
