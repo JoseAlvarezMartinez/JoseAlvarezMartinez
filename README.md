@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Hisluma y CoderHouse**
 
-- 🌱 Estoy aprendiendo **Node y SQL**
+- 🌱 Estoy aprendiendo **React Native**
 
 - 👨‍💻 Podrás ver todos mis proyectos en mi <a href="https://josealvarez.netlify.app/" target="_blank">portfolio</a>
 
